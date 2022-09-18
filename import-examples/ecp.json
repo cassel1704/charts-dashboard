@@ -1,0 +1,1367 @@
+[
+  {
+    "tag": "G43-107:TIR1-903A.T",
+    "value": [
+      {
+        "d": "2022-08-06T00:00:00Z",
+        "v": 34,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-06T00:00:00Z",
+        "v": 24,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-06T00:00:00Z",
+        "v": 19,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-06T00:00:00Z",
+        "v": 44,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-06T00:00:00Z",
+        "v": 49,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-07T00:00:00Z",
+        "v": 36,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-07T00:00:00Z",
+        "v": 26,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-07T00:00:00Z",
+        "v": 21,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-07T00:00:00Z",
+        "v": 46,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-07T00:00:00Z",
+        "v": 51,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-08T00:00:00Z",
+        "v": 38,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-08T00:00:00Z",
+        "v": 28,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-08T00:00:00Z",
+        "v": 23,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-08T00:00:00Z",
+        "v": 48,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-08T00:00:00Z",
+        "v": 53,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-09T00:00:00Z",
+        "v": 41,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-09T00:00:00Z",
+        "v": 31,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-09T00:00:00Z",
+        "v": 26,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-09T00:00:00Z",
+        "v": 51,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-09T00:00:00Z",
+        "v": 56,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-10T00:00:00Z",
+        "v": 42,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-10T00:00:00Z",
+        "v": 32,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-10T00:00:00Z",
+        "v": 27,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-10T00:00:00Z",
+        "v": 52,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-10T00:00:00Z",
+        "v": 57,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-11T00:00:00Z",
+        "v": 46,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-11T00:00:00Z",
+        "v": 36,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-11T00:00:00Z",
+        "v": 31,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-11T00:00:00Z",
+        "v": 56,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-11T00:00:00Z",
+        "v": 61,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-12T00:00:00Z",
+        "v": 43,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-12T00:00:00Z",
+        "v": 33,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-12T00:00:00Z",
+        "v": 28,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-12T00:00:00Z",
+        "v": 53,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-12T00:00:00Z",
+        "v": 58,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-13T00:00:00Z",
+        "v": 44,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-13T00:00:00Z",
+        "v": 34,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-13T00:00:00Z",
+        "v": 29,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-13T00:00:00Z",
+        "v": 54,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-13T00:00:00Z",
+        "v": 59,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-14T00:00:00Z",
+        "v": 44,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-14T00:00:00Z",
+        "v": 34,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-14T00:00:00Z",
+        "v": 29,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-14T00:00:00Z",
+        "v": 54,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-14T00:00:00Z",
+        "v": 59,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-15T00:00:00Z",
+        "v": 46,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-15T00:00:00Z",
+        "v": 36,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-15T00:00:00Z",
+        "v": 31,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-15T00:00:00Z",
+        "v": 56,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-15T00:00:00Z",
+        "v": 61,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-16T00:00:00Z",
+        "v": 48,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-16T00:00:00Z",
+        "v": 38,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-16T00:00:00Z",
+        "v": 33,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-16T00:00:00Z",
+        "v": 58,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-16T00:00:00Z",
+        "v": 63,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-17T00:00:00Z",
+        "v": 50,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-17T00:00:00Z",
+        "v": 40,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-17T00:00:00Z",
+        "v": 35,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-17T00:00:00Z",
+        "v": 60,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-17T00:00:00Z",
+        "v": 65,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-18T00:00:00Z",
+        "v": 52,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-18T00:00:00Z",
+        "v": 42,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-18T00:00:00Z",
+        "v": 37,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-18T00:00:00Z",
+        "v": 62,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-18T00:00:00Z",
+        "v": 67,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-19T00:00:00Z",
+        "v": 54,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-19T00:00:00Z",
+        "v": 44,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-19T00:00:00Z",
+        "v": 39,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-19T00:00:00Z",
+        "v": 64,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-19T00:00:00Z",
+        "v": 69,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-20T00:00:00Z",
+        "v": 52,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-20T00:00:00Z",
+        "v": 42,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-20T00:00:00Z",
+        "v": 37,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-20T00:00:00Z",
+        "v": 62,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-20T00:00:00Z",
+        "v": 67,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-21T00:00:00Z",
+        "v": 50,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-21T00:00:00Z",
+        "v": 40,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-21T00:00:00Z",
+        "v": 35,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-21T00:00:00Z",
+        "v": 60,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-21T00:00:00Z",
+        "v": 65,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-22T00:00:00Z",
+        "v": 54,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-22T00:00:00Z",
+        "v": 44,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-22T00:00:00Z",
+        "v": 39,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-22T00:00:00Z",
+        "v": 64,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-22T00:00:00Z",
+        "v": 69,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-23T00:00:00Z",
+        "v": 58,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-23T00:00:00Z",
+        "v": 48,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-23T00:00:00Z",
+        "v": 43,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-23T00:00:00Z",
+        "v": 68,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-23T00:00:00Z",
+        "v": 73,
+        "stream": "max_danger"
+      }
+    ]
+  },
+  {
+    "tag": "LIMS:G43-107.H115.Sulfur",
+    "value": [
+      {
+        "d": "2022-08-06T00:00:00Z",
+        "v": 34,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-06T00:00:00Z",
+        "v": 24,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-06T00:00:00Z",
+        "v": 19,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-06T00:00:00Z",
+        "v": 44,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-06T00:00:00Z",
+        "v": 49,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-07T00:00:00Z",
+        "v": 36,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-07T00:00:00Z",
+        "v": 26,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-07T00:00:00Z",
+        "v": 21,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-07T00:00:00Z",
+        "v": 46,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-07T00:00:00Z",
+        "v": 51,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-08T00:00:00Z",
+        "v": 38,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-08T00:00:00Z",
+        "v": 28,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-08T00:00:00Z",
+        "v": 23,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-08T00:00:00Z",
+        "v": 48,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-08T00:00:00Z",
+        "v": 53,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-09T00:00:00Z",
+        "v": 41,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-09T00:00:00Z",
+        "v": 31,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-09T00:00:00Z",
+        "v": 26,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-09T00:00:00Z",
+        "v": 51,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-09T00:00:00Z",
+        "v": 56,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-10T00:00:00Z",
+        "v": 42,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-10T00:00:00Z",
+        "v": 32,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-10T00:00:00Z",
+        "v": 27,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-10T00:00:00Z",
+        "v": 52,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-10T00:00:00Z",
+        "v": 57,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-11T00:00:00Z",
+        "v": 46,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-11T00:00:00Z",
+        "v": 36,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-11T00:00:00Z",
+        "v": 31,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-11T00:00:00Z",
+        "v": 56,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-11T00:00:00Z",
+        "v": 61,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-12T00:00:00Z",
+        "v": 43,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-12T00:00:00Z",
+        "v": 33,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-12T00:00:00Z",
+        "v": 28,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-12T00:00:00Z",
+        "v": 53,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-12T00:00:00Z",
+        "v": 58,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-13T00:00:00Z",
+        "v": 44,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-13T00:00:00Z",
+        "v": 34,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-13T00:00:00Z",
+        "v": 29,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-13T00:00:00Z",
+        "v": 54,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-13T00:00:00Z",
+        "v": 59,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-14T00:00:00Z",
+        "v": 44,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-14T00:00:00Z",
+        "v": 34,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-14T00:00:00Z",
+        "v": 29,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-14T00:00:00Z",
+        "v": 54,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-14T00:00:00Z",
+        "v": 59,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-15T00:00:00Z",
+        "v": 46,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-15T00:00:00Z",
+        "v": 36,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-15T00:00:00Z",
+        "v": 31,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-15T00:00:00Z",
+        "v": 56,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-15T00:00:00Z",
+        "v": 61,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-16T00:00:00Z",
+        "v": 48,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-16T00:00:00Z",
+        "v": 38,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-16T00:00:00Z",
+        "v": 33,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-16T00:00:00Z",
+        "v": 58,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-16T00:00:00Z",
+        "v": 63,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-17T00:00:00Z",
+        "v": 50,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-17T00:00:00Z",
+        "v": 40,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-17T00:00:00Z",
+        "v": 35,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-17T00:00:00Z",
+        "v": 60,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-17T00:00:00Z",
+        "v": 65,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-18T00:00:00Z",
+        "v": 52,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-18T00:00:00Z",
+        "v": 42,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-18T00:00:00Z",
+        "v": 37,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-18T00:00:00Z",
+        "v": 62,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-18T00:00:00Z",
+        "v": 67,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-19T00:00:00Z",
+        "v": 54,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-19T00:00:00Z",
+        "v": 44,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-19T00:00:00Z",
+        "v": 39,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-19T00:00:00Z",
+        "v": 64,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-19T00:00:00Z",
+        "v": 69,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-20T00:00:00Z",
+        "v": 52,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-20T00:00:00Z",
+        "v": 42,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-20T00:00:00Z",
+        "v": 37,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-20T00:00:00Z",
+        "v": 62,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-20T00:00:00Z",
+        "v": 67,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-21T00:00:00Z",
+        "v": 50,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-21T00:00:00Z",
+        "v": 40,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-21T00:00:00Z",
+        "v": 35,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-21T00:00:00Z",
+        "v": 60,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-21T00:00:00Z",
+        "v": 65,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-22T00:00:00Z",
+        "v": 54,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-22T00:00:00Z",
+        "v": 44,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-22T00:00:00Z",
+        "v": 39,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-22T00:00:00Z",
+        "v": 64,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-22T00:00:00Z",
+        "v": 69,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-23T00:00:00Z",
+        "v": 58,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-23T00:00:00Z",
+        "v": 48,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-23T00:00:00Z",
+        "v": 43,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-23T00:00:00Z",
+        "v": 68,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-23T00:00:00Z",
+        "v": 73,
+        "stream": "max_danger"
+      }
+    ]
+  },
+  {
+    "tag": "G_43_107_T",
+    "value": [
+      {
+        "d": "2022-08-06T00:00:00Z",
+        "v": 34,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-06T00:00:00Z",
+        "v": 24,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-06T00:00:00Z",
+        "v": 19,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-06T00:00:00Z",
+        "v": 44,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-06T00:00:00Z",
+        "v": 49,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-07T00:00:00Z",
+        "v": 36,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-07T00:00:00Z",
+        "v": 26,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-07T00:00:00Z",
+        "v": 21,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-07T00:00:00Z",
+        "v": 46,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-07T00:00:00Z",
+        "v": 51,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-08T00:00:00Z",
+        "v": 38,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-08T00:00:00Z",
+        "v": 28,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-08T00:00:00Z",
+        "v": 23,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-08T00:00:00Z",
+        "v": 48,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-08T00:00:00Z",
+        "v": 53,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-09T00:00:00Z",
+        "v": 41,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-09T00:00:00Z",
+        "v": 31,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-09T00:00:00Z",
+        "v": 26,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-09T00:00:00Z",
+        "v": 51,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-09T00:00:00Z",
+        "v": 56,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-10T00:00:00Z",
+        "v": 42,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-10T00:00:00Z",
+        "v": 32,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-10T00:00:00Z",
+        "v": 27,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-10T00:00:00Z",
+        "v": 52,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-10T00:00:00Z",
+        "v": 57,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-11T00:00:00Z",
+        "v": 46,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-11T00:00:00Z",
+        "v": 36,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-11T00:00:00Z",
+        "v": 31,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-11T00:00:00Z",
+        "v": 56,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-11T00:00:00Z",
+        "v": 61,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-12T00:00:00Z",
+        "v": 43,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-12T00:00:00Z",
+        "v": 33,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-12T00:00:00Z",
+        "v": 28,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-12T00:00:00Z",
+        "v": 53,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-12T00:00:00Z",
+        "v": 58,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-13T00:00:00Z",
+        "v": 44,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-13T00:00:00Z",
+        "v": 34,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-13T00:00:00Z",
+        "v": 29,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-13T00:00:00Z",
+        "v": 54,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-13T00:00:00Z",
+        "v": 59,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-14T00:00:00Z",
+        "v": 44,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-14T00:00:00Z",
+        "v": 34,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-14T00:00:00Z",
+        "v": 29,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-14T00:00:00Z",
+        "v": 54,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-14T00:00:00Z",
+        "v": 59,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-15T00:00:00Z",
+        "v": 46,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-15T00:00:00Z",
+        "v": 36,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-15T00:00:00Z",
+        "v": 31,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-15T00:00:00Z",
+        "v": 56,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-15T00:00:00Z",
+        "v": 61,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-16T00:00:00Z",
+        "v": 48,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-16T00:00:00Z",
+        "v": 38,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-16T00:00:00Z",
+        "v": 33,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-16T00:00:00Z",
+        "v": 58,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-16T00:00:00Z",
+        "v": 63,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-17T00:00:00Z",
+        "v": 50,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-17T00:00:00Z",
+        "v": 40,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-17T00:00:00Z",
+        "v": 35,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-17T00:00:00Z",
+        "v": 60,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-17T00:00:00Z",
+        "v": 65,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-18T00:00:00Z",
+        "v": 52,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-18T00:00:00Z",
+        "v": 42,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-18T00:00:00Z",
+        "v": 37,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-18T00:00:00Z",
+        "v": 62,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-18T00:00:00Z",
+        "v": 67,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-19T00:00:00Z",
+        "v": 54,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-19T00:00:00Z",
+        "v": 44,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-19T00:00:00Z",
+        "v": 39,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-19T00:00:00Z",
+        "v": 64,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-19T00:00:00Z",
+        "v": 69,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-20T00:00:00Z",
+        "v": 52,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-20T00:00:00Z",
+        "v": 42,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-20T00:00:00Z",
+        "v": 37,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-20T00:00:00Z",
+        "v": 62,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-20T00:00:00Z",
+        "v": 67,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-21T00:00:00Z",
+        "v": 50,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-21T00:00:00Z",
+        "v": 40,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-21T00:00:00Z",
+        "v": 35,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-21T00:00:00Z",
+        "v": 60,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-21T00:00:00Z",
+        "v": 65,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-22T00:00:00Z",
+        "v": 54,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-22T00:00:00Z",
+        "v": 44,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-22T00:00:00Z",
+        "v": 39,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-22T00:00:00Z",
+        "v": 64,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-22T00:00:00Z",
+        "v": 69,
+        "stream": "max_danger"
+      },
+      {
+        "d": "2022-08-23T00:00:00Z",
+        "v": 58,
+        "stream": "original"
+      },
+      {
+        "d": "2022-08-23T00:00:00Z",
+        "v": 48,
+        "stream": "min_warning"
+      },
+      {
+        "d": "2022-08-23T00:00:00Z",
+        "v": 43,
+        "stream": "min_danger"
+      },
+      {
+        "d": "2022-08-23T00:00:00Z",
+        "v": 68,
+        "stream": "max_warning"
+      },
+      {
+        "d": "2022-08-23T00:00:00Z",
+        "v": 73,
+        "stream": "max_danger"
+      }
+    ]
+  }
+]

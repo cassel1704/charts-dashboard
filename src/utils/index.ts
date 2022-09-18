@@ -1,0 +1,1 @@
+export { downloadExcelFromJSON } from "./downloadExcelFromJSON";
